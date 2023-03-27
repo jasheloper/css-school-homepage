@@ -1,0 +1,7 @@
+## Objective
+To test comprehension of CSS text styling techniques.
+
+<br>
+
+## Project Guidelines
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage

@@ -66,3 +66,20 @@
   section p {
     text-indent: 20px;
   }
+
+/* Links */
+a {
+  color: #AA6666;
+}
+
+a:visited {
+  color: #716363;
+}
+
+a:focus {
+  color: #d00d0d;
+}
+
+a:hover {
+  color: #e45151;
+}

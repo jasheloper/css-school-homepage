@@ -1,3 +1,8 @@
+# In Progress
+Link: https://jasheloper.github.io/css-school-homepage/
+
+<br>
+
 ## Objective
 To test comprehension of CSS text styling techniques.
 

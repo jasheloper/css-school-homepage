@@ -42,4 +42,24 @@
     border-bottom: 5px solid #a66;
   }
   
+
   /* WRITE YOUR CODE BELOW HERE */
+
+  /* General text styling */
+  html {
+    font-size: 10px;
+  }
+  body {
+    letter-spacing: 1px;
+    word-spacing: 1px;
+  }
+  header, section, aside, nav, footer {
+    font-size: 1.6em;
+    line-height: 1.7;
+  }
+  header {
+    text-align: center;
+  }
+  h2 {
+    letter-spacing: 1px;
+  }

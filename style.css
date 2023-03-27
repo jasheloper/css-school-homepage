@@ -78,8 +78,10 @@ a:visited {
 
 a:focus {
   color: #d00d0d;
+  outline: none;
 }
 
 a:hover {
   color: #e45151;
+  text-decoration: none;
 }

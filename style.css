@@ -85,3 +85,14 @@ a:hover {
   color: #e45151;
   text-decoration: none;
 }
+
+a:active {
+  color: #AA6666;
+  text-shadow: 1px 1px 1px #f0aaaa;
+}
+
+a[href^="http"] {
+  background: url("external-link-52.png") no-repeat 100% 0;
+  background-size: 16px 16px;
+  padding-right: 19px;
+}

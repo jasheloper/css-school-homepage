@@ -96,3 +96,14 @@ a[href^="http"] {
   background-size: 16px 16px;
   padding-right: 19px;
 }
+
+/* Lists */
+@counter-style fruit {
+  system: cyclic;
+  symbols: "\1F95D" "\1F349" "\1F353";
+  suffix: " "
+}
+
+ul {
+  list-style: fruit;
+}

@@ -3,6 +3,10 @@ Link: https://jasheloper.github.io/css-school-homepage/
 
 <br>
 
+![School Home Page Project](preview.png)
+
+<br>
+
 ## Objective
 To test comprehension of CSS text styling techniques.
 

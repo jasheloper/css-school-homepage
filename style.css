@@ -101,9 +101,23 @@ a[href^="http"] {
 @counter-style fruit {
   system: cyclic;
   symbols: "\1F95D" "\1F349" "\1F353";
-  suffix: " "
+  suffix: " ";
 }
 
 ul {
   list-style: fruit;
+}
+
+/* Nav styling */
+nav ul li {
+  border: 1px solid #AA6666;
+  padding: 1em;
+  margin: 1em;
+  list-style-type: none;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
 }

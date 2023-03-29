@@ -1,4 +1,4 @@
-# In Progress
+# Final Project (preview)
 Link: https://jasheloper.github.io/css-school-homepage/
 
 <br>

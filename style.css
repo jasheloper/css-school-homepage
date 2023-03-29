@@ -24,7 +24,6 @@ body {
   margin: 0 auto;
   min-width: 1000px;
   max-width: 1400px;
-  font-family: "alefregular", serif;
 }
 
 /* Layout */
@@ -69,6 +68,7 @@ footer {
 /* General text styling */
 html {
   font-size: 10px;
+  font-family: "alefregular", serif;
 }
 body {
   letter-spacing: 1px;

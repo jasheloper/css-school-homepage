@@ -1,3 +1,21 @@
+/* Custom Fonts */
+@font-face {
+  font-family: 'calistogaregular';
+  src: url('fonts/calistoga-regular-webfont.woff2') format('woff2'),
+       url('fonts/calistoga-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'alefregular';
+  src: url('fonts/alef-regular-webfont.woff2') format('woff2'),
+       url('fonts/alef-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 /* General setup */
 
 * {
@@ -8,6 +26,7 @@
     margin: 0 auto;
     min-width: 1000px;
     max-width: 1400px;
+    font-family: "alefregular", serif;
   }
   
   /* Layout */
@@ -58,9 +77,11 @@
     line-height: 1.7;
   }
   header {
+    font-family: "calistogaregular", sans-serif;
     text-align: center;
   }
   h2 {
+    font-family: "calistogaregular", sans-serif;
     letter-spacing: 1px;
   }
   section p {

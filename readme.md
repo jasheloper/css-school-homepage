@@ -3,7 +3,7 @@ Link: https://jasheloper.github.io/css-school-homepage/
 
 <br>
 
-![School Home Page Project](preview.png)
+![School Home Page Project](preview1.png)
 
 <br>
 
